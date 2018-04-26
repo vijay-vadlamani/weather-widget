@@ -1,7 +1,7 @@
 {
-  "name": "sample-project",
+  "name": "WEATHER-WIDGET",
   "version": "0.10.3",
-  "description": "Sample Project Boilerplate",
+  "description": "WEATHER WIDGET",
   "main": "index.js",
   "scripts": {
     "start": "./node_modules/.bin/gulp serve",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vijay-vadlamani/random-quotes.git"
+    "url": "https://github.com/vijay-vadlamani/weather-widget.git"
   },
   "bugs": {
     "url": ""
