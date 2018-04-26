@@ -2,7 +2,432 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1126cada-e1cb-4aff-bde8-65064de0bbaf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/jspm.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-child_process@0.1.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-child_process@0.1.0/.jspm-hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-child_process@0.1.0/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-child_process@0.1.0/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-module@0.1.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-module@0.1.0/.jspm-hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-module@0.1.0/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/amdefine@1.0.0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/amdefine@1.0.0/.jspm-hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/amdefine@1.0.0/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/amdefine@1.0.0/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/amdefine@1.0.0/amdefine.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/amdefine@1.0.0/intercept.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/amdefine@1.0.0/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.idea/.rakeTasks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.idea/bootstrap-sass.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.idea/dictionaries/glebm.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.idea/scopes/scope_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.jspm-hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.ruby-gemset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.ruby-version" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/fonts/bootstrap/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/fonts/bootstrap/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/fonts/bootstrap/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/fonts/bootstrap/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/fonts/bootstrap/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/images/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap-sprockets.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/affix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/alert.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/collapse.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/dropdown.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/modal.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/popover.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/tab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/tooltip.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/javascripts/bootstrap/transition.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/_bootstrap-compass.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/_bootstrap-mincer.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/_bootstrap-sprockets.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/_bootstrap.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_badges.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_breadcrumbs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_button-groups.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_carousel.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_close.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_code.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_component-animations.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_dropdowns.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_glyphicons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_input-groups.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_jumbotron.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_labels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_media.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_modals.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_navbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_navs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_normalize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_pager.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_panels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_popovers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_print.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_progress-bars.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_responsive-embed.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_responsive-utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_scaffolding.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_tables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_theme.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_thumbnails.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_tooltip.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_type.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_utilities.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/_wells.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_alerts.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_background-variant.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_border-radius.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_buttons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_center-block.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_clearfix.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_gradients.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_grid-framework.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_grid.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_hide-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_image.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_labels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_list-group.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_nav-divider.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_nav-vertical-align.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_opacity.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_pagination.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_panels.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_progress-bar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_reset-filter.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_reset-text.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_resize.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_responsive-visibility.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_size.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_tab-focus.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_table-row.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_text-emphasis.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_text-overflow.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/assets/stylesheets/bootstrap/mixins/_vendor-prefixes.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/bootstrap-sass.gemspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/lib/bootstrap-sass.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/lib/bootstrap-sass/engine.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/lib/bootstrap-sass/version.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/sache.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/tasks/bower.rake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/tasks/converter.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/tasks/converter/char_string_scanner.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/tasks/converter/fonts_conversion.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/tasks/converter/js_conversion.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/tasks/converter/less_conversion.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/tasks/converter/logger.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/tasks/converter/network.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/templates/project/_bootstrap-variables.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/templates/project/manifest.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/templates/project/styles.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/compass_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/compilation_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_node_mincer/apple-touch-icon-144-precomposed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_node_mincer/application.css.ejs.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_node_mincer/manifest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_node_mincer/tmp/node-mincer/application-8d05d80805ef1ca2bc344a34091ca3f2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_node_mincer/tmp/node-mincer/application-8d05d80805ef1ca2bc344a34091ca3f2.css.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_node_mincer/tmp/node-mincer/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/README.rdoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/Rakefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/app/assets/images/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/app/assets/javascripts/application.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/app/assets/stylesheets/application.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/app/controllers/application_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/app/controllers/pages_controller.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/app/helpers/application_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/app/views/layouts/application.html.erb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/app/views/pages/root.html.slim" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config.ru" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/application.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/boot.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/environment.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/environments/development.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/environments/production.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/environments/test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/initializers/backtrace_silencers.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/initializers/filter_parameter_logging.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/initializers/inflections.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/initializers/mime_types.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/initializers/secret_token.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/initializers/session_store.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/initializers/wrap_parameters.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/locales/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/locales/es.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/config/routes.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/log/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_alerts.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_background-variant.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_border-radius.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_buttons.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_center-block.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_clearfix.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_forms.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_gradients.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_grid-framework.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_grid.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_hide-text.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_image.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_labels.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_list-group.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_nav-divider.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_nav-vertical-align.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_opacity.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_pagination.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_panels.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_progress-bar.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_reset-filter.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_reset-text.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_resize.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_responsive-visibility.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_size.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_tab-focus.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_table-row.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_text-emphasis.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_text-overflow.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/72c47926a882f72ea8efc899f3ee059aee227041/_vendor-prefixes.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/7e057893947b0f5319115159d51d34fb8faaaeba/_bootstrap-sprockets.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/7e057893947b0f5319115159d51d34fb8faaaeba/_bootstrap.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/870ce131e85cd3b761787c96366ecc12d330bda6/application.sassc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_alerts.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_badges.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_breadcrumbs.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_button-groups.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_buttons.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_carousel.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_close.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_code.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_component-animations.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_dropdowns.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_forms.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_glyphicons.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_grid.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_input-groups.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_jumbotron.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_labels.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_list-group.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_media.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_mixins.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_modals.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_navbar.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_navs.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_normalize.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_pager.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_pagination.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_panels.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_popovers.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_print.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_progress-bars.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_responsive-embed.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_responsive-utilities.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_scaffolding.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_tables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_thumbnails.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_tooltip.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_type.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_utilities.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_variables.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sass/b1fcf51ad78e5594d0e168f122a934903c4815bb/_wells.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/00dce446680c5b90a101532a6b934385" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/01a105ca26100590902acfb6e8761f5b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/04a437e70f899e9a16659edd01f38fad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/0b1195c9eb1d86eb4b5ba77fd85ff833" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/12db831df61e0217628d16fb8863537d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/15c84fc66f9033c3676d22e6a960dfea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/203942ce49b30ab94a961fdc0dd423b7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/2c17ded43f5ce4ad18904a9c70fd6ef3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/2de6121eb472faea790f848d712ea7a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/2df39a5cff5eca820c142a296c28f9bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/2f5173deea6c795b8fdde723bb4b63af" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/3c8767d3ae62691a397374672869155d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/3e921d96ea0c4fb4d6d4291ebb193f96" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/48e3b4d5ea12b08e642f22e0a07b4a2a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/50251ac24e8a357b495bd149cd2e2de0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/5596eb4fdbeccdf67af9109c577a77d9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/5eaff9c20cf17813d5504f17e8b23580" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/719e6b850f9102a3a9f5d1bd471dbe42" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/7432d401540154c2a0065cdcdab901f0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/751fa3f0fcf6de35d7053cdf8d2057a4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/7b0e824f0177020327654f2d8b90a02a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/7c5085b6bcaeac81cfe308018c8ddb0b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/7de5ba5a5ce5a9331d2baacc89220340" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/80962071aa215cfc70718d526ed0173f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/87da9e74d19dbbb5c1e06aa98386c83e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/89839c7833d900c5372701b60fbcc0f9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/8fea52097000e204477d1ef3b536f4bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/90706786da6df9651025b9caec694c6a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/961f5019448950cc9604af25f1cc6296" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/9cc83fe0b3965626bba21f7d94c49a32" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/a88d9c609d05fcc4670c8742b41816c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/aeaec8d1dd9fed5d3c87e7528e241132" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/b72cdac29ad70c5383f78fcc004b40bb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/bc7e0c83e6166ed4e5ccb63bb04701c7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/c80d9b4884fbbcf79c04d8e383656b01" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/cfd35b1dec7368150bf7434e72ec0108" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/cffd775d018f68ce5dba1ee0d951a994" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/d87810c66e05721ba749c5901c1af296" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/ddd697a3d3b5f8c6d46f80ab5788f7e1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/e7ddc747b83770b34679b96f907b3ddb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/ebe08f689f659c024f467b77f32a1c49" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/f07c2e6a63209393686e9e96a8de8625" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/f0b70e0c2cf9a2416194b2a6475126dd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/f1677148e07d61cc83b4a792177e2055" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/f5824c73822fbe9ffc015302bbce02d7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/f7cbd26ba1d28d48de824f0e94586655" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/f96a1ef342dc1c9e28ca0676c7287935" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/fbf897ccbac2cdf385269352ba4e5c2e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_rails/tmp/cache/assets/test/sprockets/fd2a17381986b04b89ac7fba7641bca7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_sass_only/Gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_sass_only/compile.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/dummy_sass_only/import_all.sass" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/gemfiles/sass_3_2.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/gemfiles/sass_3_3.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/gemfiles/sass_3_4.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/gemfiles/sass_head.gemfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/node_mincer_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/node_sass_compile_test.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/pages_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/sass_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/sprockets_rails_test.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/support/dummy_rails_integration.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/support/reporting.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/test_helper.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/test/test_helper_rails.rb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/.jspm-hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/History.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/bin/cleancss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/clean.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/colors/hex-name-shortener.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/colors/hsl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/colors/rgb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/imports/inliner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/break-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/can-override.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/clone.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/compactable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/every-combination.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/has-inherit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/optimizer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/override-compactor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/populate-components.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/remove-unused.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/restore-from-optimizing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/restore.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/shorthand-compactor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/validator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/vendor-prefixes.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/properties/wrap-for-optimizing.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/advanced.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/clean-up.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/extractor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/is-special.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/merge-adjacent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/merge-media-queries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/merge-non-adjacent-by-body.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/merge-non-adjacent-by-selector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/reduce-non-adjacent.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/remove-duplicate-media-queries.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/remove-duplicates.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/reorderable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/restructure.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/selectors/simple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/source-maps/track.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/stringifier/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/stringifier/one-time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/stringifier/simple.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/stringifier/source-maps.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/text/comments-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/text/escape-store.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/text/expressions-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/text/free-text-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/text/urls-processor.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/tokenizer/extract-properties.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/tokenizer/extract-selectors.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/tokenizer/tokenize.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/urls/rebase.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/urls/reduce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/urls/rewrite.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/utils/clone-array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/utils/compatibility.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/utils/input-source-map-tracker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/utils/object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/utils/quote-scanner.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/utils/source-reader.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/utils/source-tracker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/lib/utils/split.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/commander@2.8.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/commander@2.8.1/.jspm-hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/commander@2.8.1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/commander@2.8.1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/graceful-readlink@1.0.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/graceful-readlink@1.0.1/.jspm-hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/graceful-readlink@1.0.1/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/graceful-readlink@1.0.1/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/graceful-readlink@1.0.1/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/graceful-readlink@1.0.1/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/graceful-readlink@1.0.1/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/graceful-readlink@1.0.1/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/.jspm-hash" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/build/assert-shim.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/build/mini-require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/build/prefix-source-map.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/build/prefix-utils.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/build/suffix-browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/build/suffix-source-map.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/build/suffix-utils.jsm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/build/test-prefix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/build/test-suffix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/lib/source-map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/lib/source-map/array-set.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/lib/source-map/base64-vlq.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/lib/source-map/base64.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/lib/source-map/binary-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/lib/source-map/mapping-list.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/lib/source-map/quick-sort.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/lib/source-map/source-map-consumer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/lib/source-map/source-map-generator.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/lib/source-map/source-node.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/lib/source-map/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,28 +441,65 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="const.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulp/const.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="130">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+            <state relative-caret-position="159">
+              <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".dependencies.json" pinned="false" current-in-tab="false">
+      <file leaf-file-name="package-lock.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package-lock.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="7299" column="9" selection-start-line="7299" selection-start-column="9" selection-end-line="7299" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspm_packages/npm/Base64@0.2.1/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-75">
+              <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspm_packages/npm/clean-css@4.1.11/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspm_packages/npm/source-map@0.5.7/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspm_packages/npm/base64-js@0.0.8/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jspm_packages/npm/assert@1.3.0/package.json">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name=".dependencies.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jspm_packages/.dependencies.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
+            <state relative-caret-position="426">
               <caret line="138" column="1" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
             </state>
           </provider>
@@ -78,7 +540,6 @@
       <find>runUnitTestsOnChange</find>
       <find>gitRev.short()</find>
       <find>gitRevisionShort</find>
-      <find>gitRevisionShort</find>
       <find>webdriver-manager-update</find>
       <find>git</find>
       <find>git-rev-sync</find>
@@ -86,8 +547,9 @@
       <find>gitRev</find>
       <find>rev</find>
       <find>uglify-js</find>
-      <find>uglify</find>
+      <find>bootstrap-sass</find>
       <find>clean-css</find>
+      <find>uglify</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -113,8 +575,10 @@
         <option value="$PROJECT_DIR$/src/app/Components/Home/Home.js" />
         <option value="$PROJECT_DIR$/src/app/Services/geolocation.js" />
         <option value="$PROJECT_DIR$/jspm.config.js" />
-        <option value="$PROJECT_DIR$/jspm_packages/.dependencies.json" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/jspm_packages/npm/clean-css@4.1.11/package.json" />
+        <option value="$PROJECT_DIR$/jspm_packages/npm/source-map@0.5.7/package.json" />
+        <option value="$PROJECT_DIR$/jspm_packages/.dependencies.json" />
       </list>
     </option>
   </component>
@@ -133,7 +597,6 @@
     <packageJsonPaths>
       <path value="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-assert@0.1.0/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-buffer@0.1.0/package.json" />
-      <path value="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-child_process@0.1.0/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-events@0.1.1/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-fs@0.1.2/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/github/jspm/nodelibs-http@1.7.1/package.json" />
@@ -148,32 +611,29 @@
       <path value="$PROJECT_DIR$/jspm_packages/github/systemjs/plugin-json@0.1.0/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/github/systemjs/plugin-text@0.0.2/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/Base64@0.2.1/package.json" />
-      <path value="$PROJECT_DIR$/jspm_packages/npm/amdefine@1.0.0/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/assert@1.3.0/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/babel-core@5.8.34/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/babel-runtime@5.8.34/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/base64-js@0.0.8/package.json" />
-      <path value="$PROJECT_DIR$/jspm_packages/npm/bootstrap-sass@3.3.5/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/buffer@3.5.0/package.json" />
-      <path value="$PROJECT_DIR$/jspm_packages/npm/clean-css@3.4.3/package.json" />
-      <path value="$PROJECT_DIR$/jspm_packages/npm/commander@2.8.1/package.json" />
+      <path value="$PROJECT_DIR$/jspm_packages/npm/clean-css@4.1.11/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/core-js@1.2.6/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/core-util-is@1.0.1/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/events@1.0.2/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/fetch-polyfill@0.8.1/package.json" />
-      <path value="$PROJECT_DIR$/jspm_packages/npm/graceful-readlink@1.0.1/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/https-browserify@0.0.0/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/ieee754@1.1.6/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/inherits@2.0.1/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/is-array@1.0.1/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/isarray@0.0.1/package.json" />
+      <path value="$PROJECT_DIR$/jspm_packages/npm/jquery@3.3.1/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/os-browserify@0.1.2/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/path-browserify@0.0.0/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/process@0.11.2/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/punycode@1.3.2/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/querystring@0.2.0/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/readable-stream@1.1.13/package.json" />
-      <path value="$PROJECT_DIR$/jspm_packages/npm/source-map@0.4.4/package.json" />
+      <path value="$PROJECT_DIR$/jspm_packages/npm/source-map@0.5.7/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/stream-browserify@1.0.0/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/string_decoder@0.10.31/package.json" />
       <path value="$PROJECT_DIR$/jspm_packages/npm/url@0.10.3/package.json" />
@@ -271,7 +731,7 @@
       <workItem from="1524140795126" duration="2949000" />
       <workItem from="1524150643653" duration="5082000" />
       <workItem from="1524744925191" duration="305000" />
-      <workItem from="1524747802153" duration="53000" />
+      <workItem from="1524747802153" duration="806000" />
     </task>
     <task id="LOCAL-00001" summary="Welcome Page with location">
       <created>1524165376948</created>
@@ -284,7 +744,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8389000" />
+    <option name="totallyTimeSpent" value="9142000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -294,9 +754,10 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32932693" />
       <window_info id="npm" order="2" sideWeight="0.5009881" side_tool="true" weight="0.140625" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32962587" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33670375" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33621755" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32880098" />
       <window_info id="Favorites" order="2" side_tool="true" />
@@ -309,7 +770,6 @@
       <window_info anchor="bottom" id="Messages" order="7" weight="0.32962587" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32932693" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -596,17 +1056,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jspm_packages/.dependencies.json">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="138" column="1" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
+        <state relative-caret-position="159">
+          <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+        <state relative-caret-position="166">
+          <caret line="7299" column="9" selection-start-line="7299" selection-start-column="9" selection-end-line="7299" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspm_packages/npm/base64-js@0.0.8/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspm_packages/npm/assert@1.3.0/package.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspm_packages/npm/Base64@0.2.1/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="6" column="15" lean-forward="true" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspm_packages/npm/clean-css@4.1.11/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspm_packages/npm/source-map@0.5.7/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="71" column="1" selection-start-line="71" selection-start-column="1" selection-end-line="71" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jspm_packages/.dependencies.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="138" column="1" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
         </state>
       </provider>
     </entry>
