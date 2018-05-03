@@ -7,6 +7,7 @@ import template from './Home.html!text';
 // import stylesheet from './Home.scss!';
 
 import {geolocation} from '../../Services/geolocation.js';
+import {weather} from '../../Services/weather';
 
 export default class Home extends MotherComponent {
     /**
@@ -43,18 +44,9 @@ export default class Home extends MotherComponent {
             geolocationInfo.style.display = "none";
             geolocation()
                 .then((result) => {
-                    console.log(result);
-                    let tpl = `
-          <li>City: ${result.city}</li>
-          <li>Country: ${result.country_name}</li>
-          <li>Region: ${result.region_name}</li>
-          <li>Time zone: ${result.time_zone}</li>
-          <li>Region: ${result.region_name}</li>
-          <li>Latitude : ${result.latitude} / Longitude: ${result.longitude}</li>
-          <li>Timeout : ${result.timeout}ms</li>
-        `;
-                    geolocationInfo.style.display = "block";
-                    geolocationInfo.innerHTML = tpl;
+        let longitude = result.longitude,
+            latitude = result.latitude;
+                    weather(longitude, latitude);
                 })
                 .catch(e => {
                     console.error(e);
