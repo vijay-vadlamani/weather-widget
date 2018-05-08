@@ -46,7 +46,17 @@ export default class Home extends MotherComponent {
                 .then((result) => {
         let longitude = result.longitude,
             latitude = result.latitude;
-                    weather(longitude, latitude);
+                    weather(longitude, latitude).then((result) => {
+                        let tempInKelvin = result.temp;
+                        console.log("result",result);
+                let currentTemp = 1.8*(tempInKelvin - 273) + 32;
+                let currentLocalTemp = Math.round(currentTemp * 10) / 10;
+                        let tpl = `
+                            <li>Current Temperature : ${currentLocalTemp} </li>
+                        `;
+                        geolocationInfo.style.display = "block";
+                        geolocationInfo.innerHTML = tpl;
+                    });
                 })
                 .catch(e => {
                     console.error(e);
