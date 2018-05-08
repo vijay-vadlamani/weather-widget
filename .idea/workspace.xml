@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< Updated upstream
-    <list default="true" id="1126cada-e1cb-4aff-bde8-65064de0bbaf" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-    </list>
-=======
     <list default="true" id="1126cada-e1cb-4aff-bde8-65064de0bbaf" name="Default" comment="" />
->>>>>>> Stashed changes
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -20,10 +14,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-<<<<<<< Updated upstream
-      <file leaf-file-name="const.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gulp/const.js">
-=======
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
@@ -53,7 +43,6 @@
       </file>
       <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jspm_packages/npm/clean-css@4.1.11/package.json">
->>>>>>> Stashed changes
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="130">
               <caret line="5" selection-start-line="5" selection-end-line="5" />
@@ -308,11 +297,7 @@
       <workItem from="1524140795126" duration="2949000" />
       <workItem from="1524150643653" duration="5082000" />
       <workItem from="1524744925191" duration="305000" />
-<<<<<<< Updated upstream
-      <workItem from="1524747802153" duration="53000" />
-=======
       <workItem from="1524747802153" duration="1070000" />
->>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="Welcome Page with location">
       <created>1524165376948</created>
@@ -325,11 +310,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< Updated upstream
-    <option name="totallyTimeSpent" value="8389000" />
-=======
     <option name="totallyTimeSpent" value="9406000" />
->>>>>>> Stashed changes
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -640,9 +621,6 @@
         </state>
       </provider>
     </entry>
-<<<<<<< Updated upstream
-    <entry file="file://$PROJECT_DIR$/jspm_packages/.dependencies.json">
-=======
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="159">
@@ -678,7 +656,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jspm_packages/npm/source-map@0.5.7/package.json">
->>>>>>> Stashed changes
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="322">
           <caret line="138" column="1" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
@@ -687,13 +664,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-<<<<<<< Updated upstream
-        <state relative-caret-position="338">
-          <caret line="13" column="4" lean-forward="true" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
-=======
         <state relative-caret-position="322">
           <caret line="138" column="1" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
->>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
