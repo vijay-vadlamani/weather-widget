@@ -27,17 +27,20 @@
  * @param {String} [ipAddress] You can pass a specific IP address to geoloc if you want.
  * @return {Promise}
  */
-export function geolocation(ipAddress = "") {
+export function geolocation(locationAddress) {
     "use strict";
-    let url = `https://freegeoip.net/json/${ipAddress}`;
+    let key = `AIzaSyDwC3xgZS0m2liMI5gRcT70FhZcoXUrHI4`;
+    let url = `https://maps.googleapis.com/maps/api/geocode/json?address=${locationAddress}&sensor=true&key=${key}`;
     return new Promise((resolve, reject) => {
-        let time = new Date();
-        fetch(url)
-            .then(res => res.json())
-            .then(json => {
-                json.timeout = (new Date()).getTime() - time;
-                return resolve(json);
-            })
-            .catch(e => reject(e));
-    });
+        fetch(url).then((response) => response.json()).then((locationResponse) => {
+          resolve(locationResponse);
+          var locationData = {
+                latitude : locationResponse.results[0].geometry.location.lat,
+                longitude : locationResponse.results[0].geometry.location.lng,
+              };
+
+        }).catch(err => {
+          reject(err);
+      })
+      })
 }

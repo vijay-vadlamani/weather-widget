@@ -1,8 +1,14 @@
-<h1 class="home">Welcome Home</h1>
-<div class="jumbotron">
+<h1 class="home">Weather</h1>
+<div class="container">
     <div class="row">
-        <div class="col-md-12">
-            <div class="btn btn-lg btn-primary showLocation">Show Current Location</div>
+        <div class="col-sm-6 col-md-6 col-lg-6">
+            <div class="input-group">
+                <span class="input-group-addon">Location</span>
+                <input type="text" class="form-control" id="locationDetails" aria-label="Enter Location for the location you would like to see the weather">
+            </div>
+        </div>
+        <div class="col-sm-6 col-md-6 col-lg-6">
+            <div class="btn btn-sm btn-primary showLocation col-md-6">Show Weather</div>
         </div>
     </div>
 </div>
@@ -10,7 +16,7 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-            <div class="location"></div>
+            <h1 class="location"></h1>
         </div>
     </div>
 </div>
